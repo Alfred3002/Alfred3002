@@ -20,7 +20,11 @@
                 <option value = "none">None</option>
                 <option value = "male">Male</option>
                 <option value = "female">Female</option>
-                <option value = "lgbt">LGBT</option>
+                <option value = "lesbian">Lesbian</option>
+                <option value = "gay">Gay</option>
+                <option value = "bisexual">Bisexual</option>
+                <option value = "transgender">Transgender</option>
+                <option value = "other">Other</option>
             </select>
             
             <button type="submit">Submit</button>
