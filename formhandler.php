@@ -15,9 +15,9 @@ if($_SERVER["REQUEST_METHOD"]=="POST") {
     } else {
         //displaying the collected data
 
-        echo "Firstname: ".$firstname."br";
-        echo "Lastname: ".$lastname."br";
-        echo "Gender: ".$gender."br";
+        echo "Firstname: ".$firstname."<br>";
+        echo "Lastname: ".$lastname."<br>";
+        echo "Gender: ".$gender."<br>";
     }
 } else {
     echo "Form was not submitted correctly";
